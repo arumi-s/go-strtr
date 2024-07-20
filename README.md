@@ -1,6 +1,6 @@
 # strtr
 
-[![test](https://github.com/arumi-s/go-strtr/actions/workflows/test.yml/badge.svg)](https://github.com/arumi-s/go-strtr/actions/workflows/test.yml)
+[![test](https://github.com/arumi-s/go-strtr/actions/workflows/test.yaml/badge.svg)](https://github.com/arumi-s/go-strtr/actions/workflows/test.yaml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/arumi-s/go-strtr.svg)](https://pkg.go.dev/github.com/arumi-s/go-strtr)
 
 This package is a Go implementation of the `strtr` function from [PHP](https://www.php.net/manual/en/function.strtr.php).
